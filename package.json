@@ -1,0 +1,12 @@
+{
+  "name": "stellarone-health-dynamic",
+  "version": "1.0.0",
+  "description": "StellarOne Dynamic App with Express Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
